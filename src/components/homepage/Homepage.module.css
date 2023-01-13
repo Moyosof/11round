@@ -1,0 +1,83 @@
+.homepage{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(167, 228, 167);
+    background-image: url('../../asset/leaf-bg.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.homebg{
+    width: 30%;
+    margin: 0 auto;
+    /* border: 1px solid green; */
+    border-radius: 30px;
+    height: 95vh;
+    box-shadow:  4px 4px 24px #252424,4px 4px 24px #252424;
+    background-color: black;
+    opacity: 0.82;   
+    color: white;
+    /* padding-top: 80px; */
+}
+
+.logo img{
+    width: 200px;
+    height: 200px;
+    padding: 40px 100px 20px 130px;
+}
+
+.logo p{
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 400;
+    text-align: center;
+    border-bottom: 4px solid greenyellow;
+    
+}
+.form{
+    width: 80%;
+    margin: 0 auto;
+}
+.form p{
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 400;
+    text-align: center;
+}
+
+.form input{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: transparent;
+    border-bottom: 3px solid greenyellow;
+    width: 100%;
+    outline: none;
+    font-family: poppins;
+    padding-top: 15px;
+
+}
+
+.btn{
+    margin: 10px  0 0 0;
+    padding: 10px 35px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, white, green);
+    font-size: 0.9em;
+    font-weight: bolder;
+}
+
+.btn:hover{
+    background-color: green;
+}
+
+.log{
+    color: green;
+    text-decoration: none;
+}
+
+.log span{
+    text-decoration: none;
+}
