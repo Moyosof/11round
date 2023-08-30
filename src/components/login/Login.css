@@ -1,14 +1,14 @@
-.homepage{
+.login{
     width: 100%;
     height: 100vh;
     background-color: rgb(167, 228, 167);
-    background-image: url('../../asset/leaf-bg.jpeg');
+    background-image: url('../../asset/login-leaf.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-.homebg{
+.login-bg{
     width: 30%;
     margin: 0 auto;
     /* border: 1px solid green; */
@@ -18,7 +18,6 @@
     background-color: black;
     opacity: 0.82;   
     color: white;
-    /* padding-top: 80px; */
 }
 
 .logo img{
@@ -35,6 +34,8 @@
     border-bottom: 4px solid greenyellow;
     
 }
+
+
 .form{
     width: 80%;
     margin: 0 auto;
